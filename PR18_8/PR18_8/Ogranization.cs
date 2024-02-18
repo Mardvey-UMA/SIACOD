@@ -8,21 +8,30 @@ using Telephone;
 namespace Telephone
 {
     [Serializable]
-    public class Ogranization : Person
+    public class Ogranization : TelephoneGuide
     {
+        protected string[] contact_face;
         protected string orgname;
         protected string faks;
+        protected string addres;
         readonly string type_k = "Org";
         // конструктор
-        public Ogranization(string surname, string addres, string number, string faks, string orgname)
-        : base(surname, addres, number)
+        public Ogranization(string[] contact_face, string addres, string number, string faks, string orgname)
         {
+            this.number = number;
+            this.contact_face = contact_face;
+            this.addres = addres;
             this.faks = faks;
             this.orgname = orgname;
         }
         public override void GetInfo()
         {
-            Console.Write($"Контакт лицо: {surname}");
+            Console.Write("Контактные лица: ");
+            foreach (var contact in contact_face)
+            {
+                Console.Write(contact);
+                Console.Write(" ");
+            }
             Console.Write($" Адрес: {addres}");
             Console.Write($" тел.номер: {number}");
             Console.Write($" факс: {faks}");
@@ -32,7 +41,8 @@ namespace Telephone
         {
             if (args.Length == 5)
             {
-                this.surname = args[0];
+
+                //this.surname = args[0];
                 this.addres = args[1];
                 this.number = args[2];
                 this.faks = args[3];
@@ -40,20 +50,21 @@ namespace Telephone
             }
             else
             {
-
                 throw new Exception($"Ошибка в кол-ве аргументов, принято: {args.Length}, необходимо: 5");
             }
         }
         public override bool[] InGuide(params string[] args)
         {
-            string[] temp = { this.surname, this.addres, this.number, this.faks, this.orgname };
-            bool[] res = { false, false, false, false, false };
-            for (int i = 0; i < args.Length; i++)
+            bool[] res = {false};
+            foreach (var contact in contact_face)
             {
-                res[i] = (temp[i] == args[i]);
+                if (contact == args[0])
+                {
+                    res[0] = true;
+                    break;
+                }
             }
             return res;
         }
-
     }
 }

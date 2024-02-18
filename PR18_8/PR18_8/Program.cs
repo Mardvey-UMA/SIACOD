@@ -18,12 +18,12 @@ namespace Telephone
             }
             Console.WriteLine("--------");
         }
-    static void Main(string[] args)
-    {
-        List<TelephoneGuide> TG = new List<TelephoneGuide>();
-        BinaryFormatter formatter = new BinaryFormatter();
-        using (FileStream f = new FileStream("C:\\Users\\chike\\source\\repos\\PR18_8\\PR18_8\\input.dat",
-         FileMode.OpenOrCreate))
+        static void Main(string[] args)
+        {
+            List<TelephoneGuide> TG = new List<TelephoneGuide>();
+            BinaryFormatter formatter = new BinaryFormatter();
+            using (FileStream f = new FileStream("C:\\siacode_git\\SIACOD\\PR18_8\\PR18_8\\input.dat",
+             FileMode.OpenOrCreate))
             {
                 if (f.Length != 0)
                 {
@@ -31,30 +31,32 @@ namespace Telephone
                 }
             }
             Print(TG);
+            ////
+            TG.Add(new Person("Stepanov", "ul.Pionerov", "10301"));
+            TG.Add(new Person("Igorev", "ul.Stroiteley", "10001"));
+            TG.Add(new Person("Slyagin", "ul.Eremina", "10601"));
+            TG.Add(new Person("Pupkin", "ul.Semenova", "10701"));
+            TG.Add(new Friend("Fedorov", "ul.Antonova", "18003", "28.01.2004"));
+            TG.Add(new Friend("Ryblov", "ul.Veselaya", "10011", "15.03.1980"));
+            TG.Add(new Ogranization(new string[] { "Ivanov", "Pupov"}, "ul.Universitetskaya", "10041", "12-32-84", "UMA"));
+            TG.Add(new Ogranization(new string[] { "Raykin", "Pupa", "Ivanov"}, "ul.Tarhova", "10101", "54-35-64", "Malyata"));
                     ////
-                    TG.Add(new Person("Ivanov", "pushkina dom kalatushkina", "99999"));
-                    TG.Add(new Person("Ivanov2", "pushkina1 dom kalatushkina", "99994"));
-                    TG.Add(new Person("Ivanov3", "pushkina2 dom kalatushkina", "99995"));
-                    TG.Add(new Person("Ivanov", "pushkina3 dom kalatushkina", "99996"));
-                    TG.Add(new Friend("Ivanov", "pushkina dom kalatushkina", "99999", "28.01.2004"));
-                    TG.Add(new Friend("Ivanov2", "pushkina1 dom kalatushkina", "99994", "15.03.1980"));
-                    TG.Add(new Ogranization("Ivanov", "pushkina2 dom kalatushkina", "99995", "12324", "345435"));
-                    TG.Add(new Ogranization("Ivanov4", "pushkina3 dom kalatushkina", "99996", "54354", "435435345"));
-                    ////
+            TG.Sort();
             Print(TG);
-            //TG.Sort();
-            //Print(TG);
-            string[] sur = { "Ivanov" };
+            string[] sur = { "Pupa" };
             var findBySurname =
                 from pers in TG
                 where pers.InGuide(sur)[0] == true
                 select pers;
+            
             List<TelephoneGuide> find_sur = new List<TelephoneGuide>();
-            foreach(var s in findBySurname) {
+            foreach (var s in findBySurname)
+            {
                 find_sur.Add(s);
             }
             Print(find_sur);
-            using (FileStream f = new FileStream("C:\\Users\\chike\\source\\repos\\PR18_8\\PR18_8\\input.dat",
+
+            using (FileStream f = new FileStream("C:\\siacode_git\\SIACOD\\PR18_8\\PR18_8\\input.dat",
                     FileMode.OpenOrCreate))
                     {
                         formatter.Serialize(f, TG);

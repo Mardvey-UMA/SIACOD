@@ -12,7 +12,6 @@ namespace Telephone
     {
         protected string surname;
         protected string addres;
-        protected string number;
         readonly string type_k = "Person";
         // конструктор
         public Person(string surname, string addres, string number)
