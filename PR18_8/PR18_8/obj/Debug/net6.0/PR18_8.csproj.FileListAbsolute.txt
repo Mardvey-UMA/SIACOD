@@ -1,0 +1,15 @@
+C:\Users\chike\source\repos\PR18_8\PR18_8\obj\Debug\net6.0\PR18_8.csproj.AssemblyReference.cache
+C:\Users\chike\source\repos\PR18_8\PR18_8\obj\Debug\net6.0\PR18_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chike\source\repos\PR18_8\PR18_8\obj\Debug\net6.0\PR18_8.AssemblyInfoInputs.cache
+C:\Users\chike\source\repos\PR18_8\PR18_8\obj\Debug\net6.0\PR18_8.AssemblyInfo.cs
+C:\Users\chike\source\repos\PR18_8\PR18_8\obj\Debug\net6.0\PR18_8.csproj.CoreCompileInputs.cache
+C:\Users\chike\source\repos\PR18_8\PR18_8\bin\Debug\net6.0\PR18_8.exe
+C:\Users\chike\source\repos\PR18_8\PR18_8\bin\Debug\net6.0\PR18_8.deps.json
+C:\Users\chike\source\repos\PR18_8\PR18_8\bin\Debug\net6.0\PR18_8.runtimeconfig.json
+C:\Users\chike\source\repos\PR18_8\PR18_8\bin\Debug\net6.0\PR18_8.dll
+C:\Users\chike\source\repos\PR18_8\PR18_8\bin\Debug\net6.0\PR18_8.pdb
+C:\Users\chike\source\repos\PR18_8\PR18_8\obj\Debug\net6.0\PR18_8.dll
+C:\Users\chike\source\repos\PR18_8\PR18_8\obj\Debug\net6.0\refint\PR18_8.dll
+C:\Users\chike\source\repos\PR18_8\PR18_8\obj\Debug\net6.0\PR18_8.pdb
+C:\Users\chike\source\repos\PR18_8\PR18_8\obj\Debug\net6.0\PR18_8.genruntimeconfig.cache
+C:\Users\chike\source\repos\PR18_8\PR18_8\obj\Debug\net6.0\ref\PR18_8.dll
