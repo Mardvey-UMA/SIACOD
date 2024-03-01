@@ -22,7 +22,7 @@ namespace BinarySearchTreeP_R21_I_19
             Root.Add(data);
             Count++;
         }
-        public List<T> Preorder() // Префиксный обход
+        public List<T> Preorder()
         {
             if (Root == null)
             {
@@ -32,7 +32,7 @@ namespace BinarySearchTreeP_R21_I_19
             return Preorder(Root);
         }
 
-        private List<T> Preorder(Node<T> node) // Префиксный обход
+        private List<T> Preorder(Node<T> node)
         {
             var list = new List<T>();
             if (node != null)
