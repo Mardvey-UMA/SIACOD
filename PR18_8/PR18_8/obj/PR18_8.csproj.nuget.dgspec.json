@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\siacode_git\\SIACOD\\PR18_8\\PR18_8\\PR18_8.csproj": {}
+    "C:\\siacode\\SIACOD\\PR18_8\\PR18_8\\PR18_8.csproj": {}
   },
   "projects": {
-    "C:\\siacode_git\\SIACOD\\PR18_8\\PR18_8\\PR18_8.csproj": {
+    "C:\\siacode\\SIACOD\\PR18_8\\PR18_8\\PR18_8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\siacode_git\\SIACOD\\PR18_8\\PR18_8\\PR18_8.csproj",
+        "projectUniqueName": "C:\\siacode\\SIACOD\\PR18_8\\PR18_8\\PR18_8.csproj",
         "projectName": "PR18_8",
-        "projectPath": "C:\\siacode_git\\SIACOD\\PR18_8\\PR18_8\\PR18_8.csproj",
-        "packagesPath": "C:\\Users\\NitghtWay\\.nuget\\packages\\",
-        "outputPath": "C:\\siacode_git\\SIACOD\\PR18_8\\PR18_8\\obj\\",
+        "projectPath": "C:\\siacode\\SIACOD\\PR18_8\\PR18_8\\PR18_8.csproj",
+        "packagesPath": "C:\\Users\\chike\\.nuget\\packages\\",
+        "outputPath": "C:\\siacode\\SIACOD\\PR18_8\\PR18_8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\NitghtWay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chike\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
