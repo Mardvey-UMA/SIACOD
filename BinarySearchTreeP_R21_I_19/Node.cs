@@ -8,7 +8,10 @@ namespace BinarySearchTreeP_R21_I_19
         public T Data { get;   set; }
         public Node<T> Left { get; private set; }
         public Node<T> Right { get; private set; }
-
+        public Node(){
+            this.Left = null;
+            this.Right = null;
+        }
         public Node(T data)
         {
             Data = data;
