@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.IO;
 using System.Text;
 namespace BinarySearchTreeP_R21_I_19
@@ -22,16 +22,6 @@ namespace BinarySearchTreeP_R21_I_19
                 Solution(Root.Left, ref flag, ref min_val, ref count);
                 Solution(Root.Right, ref flag, ref min_val, ref count);
             }
-        }
-
-        public static void CountGreater(Node<int> node, Node<int> min_node, ref int count) {
-        if (node == null) return;
-        CountGreater(node.Left, min_node, ref count);
-        if (node.Data > min_node.Data)
-            {
-                count++;
-            }
-        CountGreater(node.Right, min_node, ref count);
         }
         static void Main(string[] args)
         {
@@ -63,4 +53,4 @@ namespace BinarySearchTreeP_R21_I_19
             }
         }
     }
-}
+}*/
