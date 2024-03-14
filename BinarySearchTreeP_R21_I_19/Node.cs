@@ -5,7 +5,7 @@ namespace BinarySearchTreeP_R21_I_19
     class Node<T> : IComparable, IComparable<T>
         where T : IComparable, IComparable<T>
     {
-        public T Data { get;   set; }
+        public T Data{ get;   set; }
         public Node<T> Left; //{ get; private set; }
         public Node<T> Right; //{ get; private set; }
         public Node(){

@@ -32,10 +32,14 @@ namespace BinarySearchTreeP_R21_I_19
                         writer.Write(item + ", ");
                     }
 
-                    Tree<int>.Del_Value(ref tree.Root, 7);
+                    var testN = tree.Root.Left.Left.Right.Right.Right;
+                    Console.WriteLine(tree.GetHeight(testN));
 
-                    writer.Write("\n----\n");
-                    
+                    int treeHeight = tree.GetHeight(tree.Root);
+
+                    tree.DeleteBelow(ref tree.Root, tree.Root, 3, treeHeight);
+
+                    writer.Write("\n---------\n");
                     foreach (var item in tree.Preorder())
                     {
                         writer.Write(item + ", ");
