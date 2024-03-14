@@ -12,10 +12,10 @@ namespace BinarySearchTreeP_R21_I_19
         static void Main(string[] args)
         {
             var tree = new Tree<int>();
-            string input_path = "C:\\siacode_git\\SIACOD\\BinarySearchTreeP_R21_I_19\\input.txt";
-            string output_path = "C:\\siacode_git\\SIACOD\\BinarySearchTreeP_R21_I_19\\output.txt";
-            //string input_path = "C:\\siacode\\SIACOD\\BinarySearchTreeP_R21_I_19\\input.txt";
-            //string output_path = "C:\\siacode\\SIACOD\\BinarySearchTreeP_R21_I_19\\output.txt";
+            //string input_path = "C:\\siacode_git\\SIACOD\\BinarySearchTreeP_R21_I_19\\input.txt";
+            //string output_path = "C:\\siacode_git\\SIACOD\\BinarySearchTreeP_R21_I_19\\output.txt";
+            string input_path = "C:\\siacode\\SIACOD\\BinarySearchTreeP_R21_I_19\\input.txt";
+            string output_path = "C:\\siacode\\SIACOD\\BinarySearchTreeP_R21_I_19\\output.txt";
             using (StreamReader reader = new StreamReader(input_path))
             {
                 using (StreamWriter writer = new StreamWriter(output_path))
@@ -29,20 +29,16 @@ namespace BinarySearchTreeP_R21_I_19
                     }
                     foreach (var item in tree.Preorder())
                     {
-                        writer.Write(item + ", ");
+                        writer.Write(item + " ");
                     }
 
-                    var testN = tree.Root.Left.Left.Right.Right.Right;
-                    Console.WriteLine(tree.GetHeight(testN));
-
-                    int treeHeight = tree.GetHeight(tree.Root);
-
-                    tree.DeleteBelow(ref tree.Root, tree.Root, 3, treeHeight);
+                    tree.DeleteBelow(tree.Root, 1, 1);
 
                     writer.Write("\n---------\n");
+
                     foreach (var item in tree.Preorder())
                     {
-                        writer.Write(item + ", ");
+                       writer.Write(item + " ");
                     }
                 }
             }

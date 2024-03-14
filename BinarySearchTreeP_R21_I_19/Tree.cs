@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -9,7 +10,7 @@ namespace BinarySearchTreeP_R21_I_19
     class Tree<T>
         where T : IComparable, IComparable<T>
     {
-        public Node<T> Root;// { get;  set; }
+        public Node<T> Root;
         public int Count { get; private set; }
         public void Add(T data)
         {
@@ -111,24 +112,44 @@ namespace BinarySearchTreeP_R21_I_19
         {
             return this.GetHeight(Root);
         }
-        ////
 
-        public void DeleteBelow(ref Node<T> R, Node<T> node, int k, int treeHeight)
+        ////
+        public void DeleteBelow(Node<T> node, int k, int currentLevel)
         {
-            if (node == null || k <= 1)
+            if (node != null)
+            {
+                if (currentLevel == k)
+                {
+                    Console.WriteLine(currentLevel.ToString() + " " + " " + node.Data);
+                    node.Right = null;
+                    node.Left = null;
+                }
+                else
+                {
+                    DeleteBelow(node.Left, k, currentLevel + 1);
+                    DeleteBelow(node.Right, k, currentLevel + 1);
+                }
+            }
+
+        }
+    }
+        /*public void DeleteBelow(Node<T> node, int k, int treeHeight)
+        {
+            if (node == null || k < 1)
             {
                 return;
             }
+
             int nodeLevel = treeHeight - GetHeight(node) + 1;
-            if (nodeLevel > k)
+            
+            if (nodeLevel == k)
             {
-                Tree<T>.Del_Value(ref R, node.Data);
+                Console.WriteLine(nodeLevel.ToString() + " " + " " + node.Data);
+                node.Right = null;
+                node.Left = null;
             }
-            else
-            {
-                DeleteBelow(ref R, node.Left, k , treeHeight);
-                DeleteBelow(ref R, node.Right, k, treeHeight);
-            }
-        }
-    }
+                DeleteBelow(node.Left, k, treeHeight);
+                DeleteBelow(node.Right, k, treeHeight);
+        }*/
+
 }
