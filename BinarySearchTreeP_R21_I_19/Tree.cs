@@ -12,6 +12,11 @@ namespace BinarySearchTreeP_R21_I_19
     {
         public Node<T> Root;
         public int Count { get; private set; }
+
+        private Tree(Node<T> r){
+            this.Root = r;
+        }
+
         public void Add(T data)
         {
             if (this.Root == null)
@@ -130,7 +135,14 @@ namespace BinarySearchTreeP_R21_I_19
                     DeleteBelow(node.Right, k, currentLevel + 1);
                 }
             }
+        }
 
+        public void JoinTree(ref Tree<T> joinedTree){
+            joinedTree = new Tree<T>(Node<T>.JoinTree(this.Root, joinedTree.Root));
+        }
+        
+        public void InsertToRoot(T item){
+            Node<T>.InsertToRoot(ref this.Root, item);
         }
     }
         /*public void DeleteBelow(Node<T> node, int k, int treeHeight)

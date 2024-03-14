@@ -48,6 +48,51 @@ namespace BinarySearchTreeP_R21_I_19
                 }
             }
         }
+        public static void RotationRight(ref Node<T> R){
+            Node<T> x = R.Left;
+            R.Left = x.Right;
+            x.Right = R;
+            R = x;
+        }
+        public static void RotationLeft(ref Node<T> R)
+        {
+            Node<T> x = R.Right;
+            R.Right = x.Left;
+            x.Left = R;
+            R = x;
+        }
+        public static void InsertToRoot(ref Node<T> R, T item){
+            if (R == null){
+                R = new Node<T>(item);
+            }else if (R.Data.CompareTo(item) > 0){
+                InsertToRoot(ref R.Left, item);
+                RotationRight(ref R);
+            }else{
+                InsertToRoot(ref R.Right, item);
+                RotationLeft(ref R);
+            }
+        }
+        public static Node<T> JoinTree(Node<T> firstTree, Node<T> secondTree){
+            if (secondTree == null) return firstTree;
+            if (firstTree == null) return secondTree;
+            InsertToRoot(ref secondTree, firstTree.Data);
+            secondTree.Left = JoinTree(firstTree.Left, secondTree.Left);
+            secondTree.Right = JoinTree(firstTree.Right, secondTree.Right);
+            return secondTree;
+        }
+        public static void InsertRandom(ref Node<T> r, T nodeData, Random rnd)
+        {
+            if (r == null)
+            {
+                r = new Node<T>(nodeData);
+            }
+            else
+            {
+                if (rnd.Next() < int.MaxValue \ (r.Count + 1)){
+
+                }
+            }
+        }
         public int CompareTo(object obj)
         {
             if (obj is Node<T> item)
