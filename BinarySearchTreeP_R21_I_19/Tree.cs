@@ -16,7 +16,10 @@ namespace BinarySearchTreeP_R21_I_19
         private Tree(Node<T> r){
             this.Root = r;
         }
-
+        public Tree()
+        {
+            this.Root = null;
+        }
         public void Add(T data)
         {
             if (this.Root == null)
@@ -125,7 +128,7 @@ namespace BinarySearchTreeP_R21_I_19
             {
                 if (currentLevel == k)
                 {
-                    Console.WriteLine(currentLevel.ToString() + " " + " " + node.Data);
+                    //Console.WriteLine(currentLevel.ToString() + " " + " " + node.Data);
                     node.Right = null;
                     node.Left = null;
                 }

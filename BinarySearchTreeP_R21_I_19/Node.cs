@@ -80,7 +80,7 @@ namespace BinarySearchTreeP_R21_I_19
             secondTree.Right = JoinTree(firstTree.Right, secondTree.Right);
             return secondTree;
         }
-        public static void InsertRandom(ref Node<T> r, T nodeData, Random rnd)
+       /* public static void InsertRandom(ref Node<T> r, T nodeData, Random rnd)
         {
             if (r == null)
             {
@@ -92,7 +92,7 @@ namespace BinarySearchTreeP_R21_I_19
 
                 }
             }
-        }
+        }*/
         public int CompareTo(object obj)
         {
             if (obj is Node<T> item)
