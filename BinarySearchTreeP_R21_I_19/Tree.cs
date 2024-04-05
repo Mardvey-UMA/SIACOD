@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection.Emit;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace BinarySearchTreeP_R21_I_19
 {
@@ -109,7 +111,7 @@ namespace BinarySearchTreeP_R21_I_19
                 }
             }
         }
-        ////
+        
         public int GetHeight(Node<T> node)
         {
             if (node == null) return 0;
@@ -147,24 +149,114 @@ namespace BinarySearchTreeP_R21_I_19
         public void InsertToRoot(T item){
             Node<T>.InsertToRoot(ref this.Root, item);
         }
-    }
-        /*public void DeleteBelow(Node<T> node, int k, int treeHeight)
+        // // // // // // // // // // //
+            public void CheckAndBalanceTree()
+            {
+                if (Root == null)
+                {
+                    Console.WriteLine("Дерево пустое.");
+                    return;
+                }
+
+                if (IsBalanced(Root))
+                {
+                    Console.WriteLine("Дерево уже сбалансировано.");
+                    return;
+                }
+
+                bool treeBalanced = false;
+                T optimalValue = default;
+                Node<T> currentNode = Root;
+
+                while (!treeBalanced)
+                {
+                    int imbalanceLevel = GetImbalanceLevel(Root);
+
+                    if (imbalanceLevel == -1)
+                    {
+                        Console.WriteLine("Ошибка: Дерево не удалось сбалансировать даже после добавления узла.");
+                        return;
+                    }
+
+                    if (currentNode.AddForBalancing(optimalValue, out optimalValue))
+                    {
+                        treeBalanced = true;
+                    }
+                    else
+                    {
+                        currentNode = FindNodeAtLevel(Root, imbalanceLevel);
+                    }
+                }
+
+                Console.WriteLine("Дерево сбалансировано добавлением узла со значением: " + optimalValue);
+            }
+
+        private bool IsBalanced(Node<T> root)
         {
-            if (node == null || k < 1)
+            if (root == null)
             {
-                return;
+                return true;
             }
 
-            int nodeLevel = treeHeight - GetHeight(node) + 1;
-            
-            if (nodeLevel == k)
-            {
-                Console.WriteLine(nodeLevel.ToString() + " " + " " + node.Data);
-                node.Right = null;
-                node.Left = null;
-            }
-                DeleteBelow(node.Left, k, treeHeight);
-                DeleteBelow(node.Right, k, treeHeight);
-        }*/
+            Queue<Node<T>> queue = new Queue<Node<T>>();
+            queue.Enqueue(root);
 
-}
+            while (queue.Count > 0)
+            {
+                Node<T> current = queue.Dequeue();
+
+                if (Math.Abs(GetHeight(current.Left) - GetHeight(current.Right)) > 1)
+                {
+                    return false;
+                }
+
+                if (current.Left != null)
+                {
+                    queue.Enqueue(current.Left);
+                }
+
+                if (current.Right != null)
+                {
+                    queue.Enqueue(current.Right);
+                }
+            }
+
+            return true;
+        }
+        public int GetImbalanceLevel(Node<T> node)
+            {
+                if (node == null)
+                {
+                    return 0;
+                }
+
+                int leftHeight = GetImbalanceLevel(node.Left);
+                int rightHeight = GetImbalanceLevel(node.Right);
+
+                if (leftHeight == -1 || rightHeight == -1 || Math.Abs(leftHeight - rightHeight) > 1)
+                {
+                    return node.Height;
+                }
+
+                return Math.Max(leftHeight, rightHeight) + 1;
+            }
+
+            private Node<T> FindNodeAtLevel(Node<T> node, int targetLevel)
+            {
+                if (node == null)
+                {
+                    return null;
+                }
+
+                if (node.Height == targetLevel)
+                {
+                    return node;
+                }
+
+                Node<T> leftNode = FindNodeAtLevel(node.Left, targetLevel);
+                Node<T> rightNode = FindNodeAtLevel(node.Right, targetLevel);
+
+                return leftNode ?? rightNode;
+            }
+        }
+    }

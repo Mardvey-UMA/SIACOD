@@ -8,19 +8,47 @@ namespace BinarySearchTreeP_R21_I_19
         public T Data{ get;   set; }
         public Node<T> Left; //{ get; private set; }
         public Node<T> Right; //{ get; private set; }
+        public int height;
+        public int Height
+        {
+            get
+            {
+                return (this != null) ? this.height : 0;
+            }
+        }
+        public int BalanceFactor
+        {
+            get
+            {
+                int rh = (this.Right != null) ? this.Right.Height : 0;
+                int lh = (this.Left != null) ? this.Left.Height : 0;
+                return rh - lh;
+            }
+        }
+        public void NewHeight()
+        {
+            int rh = (this.Right != null) ? this.Right.Height : 0;
+            int lh = (this.Left != null) ? this.Left.Height : 0;
+            this.height = ((rh > lh) ? rh : lh) + 1;
+        }
         public Node(){
+            height = 1;
             this.Left = null;
             this.Right = null;
         }
         public Node(T data)
         {
             Data = data;
+            height = 1;
+            this.Left = null;
+            this.Right = null;
         }
         public Node(T data, Node<T> left, Node<T> right)
         {
             Data = data;
             Left = left;
             Right = right;
+
         }
         public void Add(T data)
         {
@@ -52,6 +80,8 @@ namespace BinarySearchTreeP_R21_I_19
             Node<T> x = R.Left;
             R.Left = x.Right;
             x.Right = R;
+            R.NewHeight();
+            x.NewHeight();
             R = x;
         }
         public static void RotationLeft(ref Node<T> R)
@@ -59,6 +89,8 @@ namespace BinarySearchTreeP_R21_I_19
             Node<T> x = R.Right;
             R.Right = x.Left;
             x.Left = R;
+            R.NewHeight();
+            x.NewHeight();
             R = x;
         }
         public static void InsertToRoot(ref Node<T> R, T item){
@@ -112,6 +144,32 @@ namespace BinarySearchTreeP_R21_I_19
         public override string ToString()
         {
             return Data.ToString();
+        }
+        /*        public override int Parse()
+                {
+                    return Data.ToString().Parse();
+                }*/
+        public bool AddForBalancing(T data, out T optimalValue)
+        {
+            if (this.AddForBalancing(data, out optimalValue))
+            {
+                optimalValue = data;
+                return true;
+            }
+
+            if (this.BalanceFactor == -2)
+            {
+                optimalValue = Left.Data;
+                return false;
+            }
+            else if (this.BalanceFactor == 2)
+            {
+                optimalValue = Right.Data;
+                return false;
+            }
+
+            optimalValue = default(T);
+            return true;
         }
     }
 }
