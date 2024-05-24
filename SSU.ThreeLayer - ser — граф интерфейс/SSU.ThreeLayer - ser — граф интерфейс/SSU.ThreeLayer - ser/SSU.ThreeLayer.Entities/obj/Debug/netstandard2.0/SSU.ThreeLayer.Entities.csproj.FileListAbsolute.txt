@@ -1,0 +1,39 @@
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.Entities\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.deps.json
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.Entities\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.dll
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.Entities\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.pdb
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.AssemblyInfoInputs.cache
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.AssemblyInfo.cs
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.dll
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.pdb
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.csprojAssemblyReference.cache
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.deps.json
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.dll
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.pdb
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.csproj.AssemblyReference.cache
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.AssemblyInfoInputs.cache
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.AssemblyInfo.cs
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.csproj.CoreCompileInputs.cache
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.dll
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.pdb
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.deps.json
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.dll
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.pdb
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.csproj.AssemblyReference.cache
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.AssemblyInfoInputs.cache
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.AssemblyInfo.cs
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.dll
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.pdb
+D:\Универ\2 курс\4 семестр\СИАКОД\24 практикум\SSU.ThreeLayer - ser — граф интерфейс\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.deps.json
+D:\Универ\2 курс\4 семестр\СИАКОД\24 практикум\SSU.ThreeLayer - ser — граф интерфейс\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.dll
+D:\Универ\2 курс\4 семестр\СИАКОД\24 практикум\SSU.ThreeLayer - ser — граф интерфейс\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.pdb
+D:\Универ\2 курс\4 семестр\СИАКОД\24 практикум\SSU.ThreeLayer - ser — граф интерфейс\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.csproj.AssemblyReference.cache
+D:\Универ\2 курс\4 семестр\СИАКОД\24 практикум\SSU.ThreeLayer - ser — граф интерфейс\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\2 курс\4 семестр\СИАКОД\24 практикум\SSU.ThreeLayer - ser — граф интерфейс\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.AssemblyInfoInputs.cache
+D:\Универ\2 курс\4 семестр\СИАКОД\24 практикум\SSU.ThreeLayer - ser — граф интерфейс\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.AssemblyInfo.cs
+D:\Универ\2 курс\4 семестр\СИАКОД\24 практикум\SSU.ThreeLayer - ser — граф интерфейс\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.csproj.CoreCompileInputs.cache
+D:\Универ\2 курс\4 семестр\СИАКОД\24 практикум\SSU.ThreeLayer - ser — граф интерфейс\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.dll
+D:\Универ\2 курс\4 семестр\СИАКОД\24 практикум\SSU.ThreeLayer - ser — граф интерфейс\SSU.ThreeLayer - ser\SSU.ThreeLayer.Entities\obj\Debug\netstandard2.0\SSU.ThreeLayer.Entities.pdb

@@ -1,0 +1,14 @@
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.BLL.deps.json
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.BLL.dll
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.BLL.pdb
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.DAL.dll
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.dll
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.DAL.pdb
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.pdb
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.csprojAssemblyReference.cache
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.AssemblyInfoInputs.cache
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.AssemblyInfo.cs
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.csproj.CopyComplete
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.dll
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.pdb

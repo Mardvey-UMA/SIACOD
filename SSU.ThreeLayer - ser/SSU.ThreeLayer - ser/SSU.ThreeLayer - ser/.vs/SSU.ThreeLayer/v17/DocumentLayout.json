@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0418\u0410\u041A\u041E\u0414\\SSU.ThreeLayer - ser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FDD42-1964-420A-820D-F6055A096DE6}|SSU.ThreeLayer.ConsolePL\\SSU.ThreeLayer.ConsolePL.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0441\u0438\u0430\u043A\u043E\u0434\\ssu.threelayer - ser\\ssu.threelayer.consolepl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6FDD42-1964-420A-820D-F6055A096DE6}|SSU.ThreeLayer.ConsolePL\\SSU.ThreeLayer.ConsolePL.csproj|solutionrelative:ssu.threelayer.consolepl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCFA380-9635-43EE-8C62-1F4B93E830A0}|SSU.ThreeLayer.BLL\\SSU.ThreeLayer.BLL.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0441\u0438\u0430\u043A\u043E\u0434\\ssu.threelayer - ser\\ssu.threelayer.bll\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCFA380-9635-43EE-8C62-1F4B93E830A0}|SSU.ThreeLayer.BLL\\SSU.ThreeLayer.BLL.csproj|solutionrelative:ssu.threelayer.bll\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCFA380-9635-43EE-8C62-1F4B93E830A0}|SSU.ThreeLayer.BLL\\SSU.ThreeLayer.BLL.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0441\u0438\u0430\u043A\u043E\u0434\\ssu.threelayer - ser\\ssu.threelayer.bll\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCFA380-9635-43EE-8C62-1F4B93E830A0}|SSU.ThreeLayer.BLL\\SSU.ThreeLayer.BLL.csproj|solutionrelative:ssu.threelayer.bll\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D8CFD0-3943-46E0-A692-C4ED7F463DA7}|SSU.ThreeLayer.DAL\\SSU.ThreeLayer.DAL.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0441\u0438\u0430\u043A\u043E\u0434\\ssu.threelayer - ser\\ssu.threelayer.dal\\ibaseclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D8CFD0-3943-46E0-A692-C4ED7F463DA7}|SSU.ThreeLayer.DAL\\SSU.ThreeLayer.DAL.csproj|solutionrelative:ssu.threelayer.dal\\ibaseclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D8CFD0-3943-46E0-A692-C4ED7F463DA7}|SSU.ThreeLayer.DAL\\SSU.ThreeLayer.DAL.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0441\u0438\u0430\u043A\u043E\u0434\\ssu.threelayer - ser\\ssu.threelayer.dal\\ibaseproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D8CFD0-3943-46E0-A692-C4ED7F463DA7}|SSU.ThreeLayer.DAL\\SSU.ThreeLayer.DAL.csproj|solutionrelative:ssu.threelayer.dal\\ibaseproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E94CA4D-E201-40FA-8EF7-E061AA2B8773}|SSU.ThreeLayer.Common\\SSU.ThreeLayer.Common.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0441\u0438\u0430\u043A\u043E\u0434\\ssu.threelayer - ser\\ssu.threelayer.common\\dependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E94CA4D-E201-40FA-8EF7-E061AA2B8773}|SSU.ThreeLayer.Common\\SSU.ThreeLayer.Common.csproj|solutionrelative:ssu.threelayer.common\\dependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D8CFD0-3943-46E0-A692-C4ED7F463DA7}|SSU.ThreeLayer.DAL\\SSU.ThreeLayer.DAL.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0441\u0438\u0430\u043A\u043E\u0434\\ssu.threelayer - ser\\ssu.threelayer.dal\\baseproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D8CFD0-3943-46E0-A692-C4ED7F463DA7}|SSU.ThreeLayer.DAL\\SSU.ThreeLayer.DAL.csproj|solutionrelative:ssu.threelayer.dal\\baseproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D8CFD0-3943-46E0-A692-C4ED7F463DA7}|SSU.ThreeLayer.DAL\\SSU.ThreeLayer.DAL.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0441\u0438\u0430\u043A\u043E\u0434\\ssu.threelayer - ser\\ssu.threelayer.dal\\baseclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D8CFD0-3943-46E0-A692-C4ED7F463DA7}|SSU.ThreeLayer.DAL\\SSU.ThreeLayer.DAL.csproj|solutionrelative:ssu.threelayer.dal\\baseclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCFA380-9635-43EE-8C62-1F4B93E830A0}|SSU.ThreeLayer.BLL\\SSU.ThreeLayer.BLL.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0441\u0438\u0430\u043A\u043E\u0434\\ssu.threelayer - ser\\ssu.threelayer.bll\\iclientlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCFA380-9635-43EE-8C62-1F4B93E830A0}|SSU.ThreeLayer.BLL\\SSU.ThreeLayer.BLL.csproj|solutionrelative:ssu.threelayer.bll\\iclientlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367A803B-1677-4D27-8F15-6436876266F7}|SSU.ThreeLayer.Entities\\SSU.ThreeLayer.Entities.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0441\u0438\u0430\u043A\u043E\u0434\\ssu.threelayer - ser\\ssu.threelayer.entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367A803B-1677-4D27-8F15-6436876266F7}|SSU.ThreeLayer.Entities\\SSU.ThreeLayer.Entities.csproj|solutionrelative:ssu.threelayer.entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0418\u0410\u041A\u041E\u0414\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.BLL\\ProductService.cs",
+              "RelativeDocumentMoniker": "SSU.ThreeLayer.BLL\\ProductService.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0418\u0410\u041A\u041E\u0414\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.BLL\\ProductService.cs",
+              "RelativeToolTip": "SSU.ThreeLayer.BLL\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:20:55.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0418\u0410\u041A\u041E\u0414\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.BLL\\IProductService.cs",
+              "RelativeDocumentMoniker": "SSU.ThreeLayer.BLL\\IProductService.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0418\u0410\u041A\u041E\u0414\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.BLL\\IProductService.cs",
+              "RelativeToolTip": "SSU.ThreeLayer.BLL\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:20:37.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseProducts.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0418\u0410\u041A\u041E\u0414\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.DAL\\BaseProducts.cs",
+              "RelativeDocumentMoniker": "SSU.ThreeLayer.DAL\\BaseProducts.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0418\u0410\u041A\u041E\u0414\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.DAL\\BaseProducts.cs",
+              "RelativeToolTip": "SSU.ThreeLayer.DAL\\BaseProducts.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:19:52.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBaseProducts.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0418\u0410\u041A\u041E\u0414\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.DAL\\IBaseProducts.cs",
+              "RelativeDocumentMoniker": "SSU.ThreeLayer.DAL\\IBaseProducts.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0418\u0410\u041A\u041E\u0414\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.DAL\\IBaseProducts.cs",
+              "RelativeToolTip": "SSU.ThreeLayer.DAL\\IBaseProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:19:20.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyResolver.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0418\u0410\u041A\u041E\u0414\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.Common\\DependencyResolver.cs",
+              "RelativeDocumentMoniker": "SSU.ThreeLayer.Common\\DependencyResolver.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0418\u0410\u041A\u041E\u0414\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.Common\\DependencyResolver.cs",
+              "RelativeToolTip": "SSU.ThreeLayer.Common\\DependencyResolver.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:57:49.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0418\u0410\u041A\u041E\u0414\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.Entities\\Client.cs",
+              "RelativeDocumentMoniker": "SSU.ThreeLayer.Entities\\Client.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0418\u0410\u041A\u041E\u0414\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.Entities\\Client.cs",
+              "RelativeToolTip": "SSU.ThreeLayer.Entities\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:57:45.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseClients.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0418\u0410\u041A\u041E\u0414\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.DAL\\BaseClients.cs",
+              "RelativeDocumentMoniker": "SSU.ThreeLayer.DAL\\BaseClients.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0418\u0410\u041A\u041E\u0414\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.DAL\\BaseClients.cs",
+              "RelativeToolTip": "SSU.ThreeLayer.DAL\\BaseClients.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:57:40.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBaseClients.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0418\u0410\u041A\u041E\u0414\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.DAL\\IBaseClients.cs",
+              "RelativeDocumentMoniker": "SSU.ThreeLayer.DAL\\IBaseClients.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0418\u0410\u041A\u041E\u0414\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.DAL\\IBaseClients.cs",
+              "RelativeToolTip": "SSU.ThreeLayer.DAL\\IBaseClients.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:57:38.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0418\u0410\u041A\u041E\u0414\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.ConsolePL\\Program.cs",
+              "RelativeDocumentMoniker": "SSU.ThreeLayer.ConsolePL\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0418\u0410\u041A\u041E\u0414\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.ConsolePL\\Program.cs",
+              "RelativeToolTip": "SSU.ThreeLayer.ConsolePL\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAArwDEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:57:13.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClientLogic.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0418\u0410\u041A\u041E\u0414\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.BLL\\IClientLogic.cs",
+              "RelativeDocumentMoniker": "SSU.ThreeLayer.BLL\\IClientLogic.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0418\u0410\u041A\u041E\u0414\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.BLL\\IClientLogic.cs",
+              "RelativeToolTip": "SSU.ThreeLayer.BLL\\IClientLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:57:06.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

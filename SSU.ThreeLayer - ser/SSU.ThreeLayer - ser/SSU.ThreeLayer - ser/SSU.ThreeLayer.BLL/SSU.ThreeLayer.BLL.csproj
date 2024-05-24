@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SSU.ThreeLayer.DAL\SSU.ThreeLayer.DAL.csproj" />
+    <ProjectReference Include="..\SSU.ThreeLayer.Entities\SSU.ThreeLayer.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

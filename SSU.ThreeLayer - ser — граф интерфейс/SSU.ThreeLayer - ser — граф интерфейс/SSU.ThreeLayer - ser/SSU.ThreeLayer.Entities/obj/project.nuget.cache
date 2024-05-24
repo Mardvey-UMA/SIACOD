@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RL91QAGEsYSSLk91AKcChj5Smw4+6s/eY3myjfBQ2y3qdo6GIAIV8zXwqJdIfiVKgdYyP1Bjs8hqV1xcw5mdWg==",
+  "success": true,
+  "projectFilePath": "D:\\Универ\\2 курс\\4 семестр\\СИАКОД\\24 практикум\\SSU.ThreeLayer - ser — граф интерфейс\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.Entities\\SSU.ThreeLayer.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

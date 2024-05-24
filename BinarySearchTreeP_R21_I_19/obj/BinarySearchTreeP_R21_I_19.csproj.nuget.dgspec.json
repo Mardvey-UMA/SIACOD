@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\siacode_git\\SIACOD\\BinarySearchTreeP_R21_I_19\\BinarySearchTreeP_R21_I_19.csproj": {}
+    "P:\\siacode_git\\SIACOD\\BinarySearchTreeP_R21_I_19\\BinarySearchTreeP_R21_I_19.csproj": {}
   },
   "projects": {
-    "C:\\siacode_git\\SIACOD\\BinarySearchTreeP_R21_I_19\\BinarySearchTreeP_R21_I_19.csproj": {
+    "P:\\siacode_git\\SIACOD\\BinarySearchTreeP_R21_I_19\\BinarySearchTreeP_R21_I_19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\siacode_git\\SIACOD\\BinarySearchTreeP_R21_I_19\\BinarySearchTreeP_R21_I_19.csproj",
+        "projectUniqueName": "P:\\siacode_git\\SIACOD\\BinarySearchTreeP_R21_I_19\\BinarySearchTreeP_R21_I_19.csproj",
         "projectName": "BinarySearchTreeP_R21_I_19",
-        "projectPath": "C:\\siacode_git\\SIACOD\\BinarySearchTreeP_R21_I_19\\BinarySearchTreeP_R21_I_19.csproj",
+        "projectPath": "P:\\siacode_git\\SIACOD\\BinarySearchTreeP_R21_I_19\\BinarySearchTreeP_R21_I_19.csproj",
         "packagesPath": "C:\\Users\\NitghtWay\\.nuget\\packages\\",
-        "outputPath": "C:\\siacode_git\\SIACOD\\BinarySearchTreeP_R21_I_19\\obj\\",
+        "outputPath": "P:\\siacode_git\\SIACOD\\BinarySearchTreeP_R21_I_19\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

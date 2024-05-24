@@ -1,0 +1,59 @@
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.BLL.deps.json
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.BLL.dll
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.BLL.pdb
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.DAL.dll
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.dll
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.DAL.pdb
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.pdb
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.csprojAssemblyReference.cache
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.AssemblyInfoInputs.cache
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.AssemblyInfo.cs
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.csproj.CopyComplete
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.dll
+C:\Users\Nusha.000\Downloads\SSU.ThreeLayer (2)\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.pdb
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.BLL.deps.json
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.BLL.dll
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.BLL.pdb
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.DAL.dll
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.dll
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.DAL.pdb
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.pdb
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.csproj.AssemblyReference.cache
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.AssemblyInfoInputs.cache
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.AssemblyInfo.cs
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.csproj.CoreCompileInputs.cache
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.Thre.4639B03C.Up2Date
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.dll
+D:\Универ\2 курс\4 семестр\СИАКОД\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.pdb
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.BLL.deps.json
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.BLL.dll
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.BLL.pdb
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.DAL.dll
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.dll
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.DAL.pdb
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.pdb
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.csproj.AssemblyReference.cache
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.AssemblyInfoInputs.cache
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.AssemblyInfo.cs
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.csproj.CopyComplete
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.dll
+C:\Users\Даша\source\repos\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.pdb
+D:\проги\class array\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.csproj.AssemblyReference.cache
+D:\проги\class array\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\проги\class array\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.AssemblyInfoInputs.cache
+D:\проги\class array\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.AssemblyInfo.cs
+D:\проги\class array\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.csproj.CoreCompileInputs.cache
+D:\проги\class array\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.dll
+D:\проги\class array\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.pdb
+D:\проги\class array\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.BLL.deps.json
+D:\проги\class array\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.BLL.dll
+D:\проги\class array\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.BLL.pdb
+D:\проги\class array\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.DAL.dll
+D:\проги\class array\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.dll
+D:\проги\class array\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.DAL.pdb
+D:\проги\class array\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\bin\Debug\netstandard2.0\SSU.ThreeLayer.Entities.pdb
+D:\проги\class array\SSU.ThreeLayer - ser\SSU.ThreeLayer - ser\SSU.ThreeLayer.BLL\obj\Debug\netstandard2.0\SSU.ThreeLayer.BLL.csproj.CopyComplete

@@ -1,0 +1,15 @@
+P:\siacode_git\SIACOD\Graphs\bin\Debug\net6.0\Graphs.exe
+P:\siacode_git\SIACOD\Graphs\bin\Debug\net6.0\Graphs.deps.json
+P:\siacode_git\SIACOD\Graphs\bin\Debug\net6.0\Graphs.runtimeconfig.json
+P:\siacode_git\SIACOD\Graphs\bin\Debug\net6.0\Graphs.dll
+P:\siacode_git\SIACOD\Graphs\bin\Debug\net6.0\Graphs.pdb
+P:\siacode_git\SIACOD\Graphs\obj\Debug\net6.0\Graphs.csproj.AssemblyReference.cache
+P:\siacode_git\SIACOD\Graphs\obj\Debug\net6.0\Graphs.GeneratedMSBuildEditorConfig.editorconfig
+P:\siacode_git\SIACOD\Graphs\obj\Debug\net6.0\Graphs.AssemblyInfoInputs.cache
+P:\siacode_git\SIACOD\Graphs\obj\Debug\net6.0\Graphs.AssemblyInfo.cs
+P:\siacode_git\SIACOD\Graphs\obj\Debug\net6.0\Graphs.csproj.CoreCompileInputs.cache
+P:\siacode_git\SIACOD\Graphs\obj\Debug\net6.0\Graphs.dll
+P:\siacode_git\SIACOD\Graphs\obj\Debug\net6.0\refint\Graphs.dll
+P:\siacode_git\SIACOD\Graphs\obj\Debug\net6.0\Graphs.pdb
+P:\siacode_git\SIACOD\Graphs\obj\Debug\net6.0\Graphs.genruntimeconfig.cache
+P:\siacode_git\SIACOD\Graphs\obj\Debug\net6.0\ref\Graphs.dll

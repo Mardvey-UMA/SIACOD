@@ -1,0 +1,15 @@
+P:\siacode_git\SIACOD\HaffmanCode\HaffmanCode\obj\Debug\net6.0\HaffmanCode.csproj.AssemblyReference.cache
+P:\siacode_git\SIACOD\HaffmanCode\HaffmanCode\obj\Debug\net6.0\HaffmanCode.GeneratedMSBuildEditorConfig.editorconfig
+P:\siacode_git\SIACOD\HaffmanCode\HaffmanCode\obj\Debug\net6.0\HaffmanCode.AssemblyInfoInputs.cache
+P:\siacode_git\SIACOD\HaffmanCode\HaffmanCode\obj\Debug\net6.0\HaffmanCode.AssemblyInfo.cs
+P:\siacode_git\SIACOD\HaffmanCode\HaffmanCode\obj\Debug\net6.0\HaffmanCode.csproj.CoreCompileInputs.cache
+P:\siacode_git\SIACOD\HaffmanCode\HaffmanCode\bin\Debug\net6.0\HaffmanCode.exe
+P:\siacode_git\SIACOD\HaffmanCode\HaffmanCode\bin\Debug\net6.0\HaffmanCode.deps.json
+P:\siacode_git\SIACOD\HaffmanCode\HaffmanCode\bin\Debug\net6.0\HaffmanCode.runtimeconfig.json
+P:\siacode_git\SIACOD\HaffmanCode\HaffmanCode\bin\Debug\net6.0\HaffmanCode.dll
+P:\siacode_git\SIACOD\HaffmanCode\HaffmanCode\bin\Debug\net6.0\HaffmanCode.pdb
+P:\siacode_git\SIACOD\HaffmanCode\HaffmanCode\obj\Debug\net6.0\HaffmanCode.dll
+P:\siacode_git\SIACOD\HaffmanCode\HaffmanCode\obj\Debug\net6.0\refint\HaffmanCode.dll
+P:\siacode_git\SIACOD\HaffmanCode\HaffmanCode\obj\Debug\net6.0\HaffmanCode.pdb
+P:\siacode_git\SIACOD\HaffmanCode\HaffmanCode\obj\Debug\net6.0\HaffmanCode.genruntimeconfig.cache
+P:\siacode_git\SIACOD\HaffmanCode\HaffmanCode\obj\Debug\net6.0\ref\HaffmanCode.dll

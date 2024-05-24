@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ewa921B1hybby8f+kjI9/LvZfSuccbSqtMQDE4fvAcJTZQKzh20ShhyMwK7Na7KbYG4dHA07eYnA+J/zNrsQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NitghtWay\\Downloads\\Telegram Desktop\\SSU.ThreeLayer - ser\\SSU.ThreeLayer - ser\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.DAL\\SSU.ThreeLayer.DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NitghtWay\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\NitghtWay\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

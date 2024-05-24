@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,21 +21,9 @@ namespace BinarySearchTreeP_R21_I_19
             {
                 using (StreamWriter writer = new StreamWriter(output_path))
                 {
-                    string line;
-                    int current;
-                    while ((line = reader.ReadLine()) != null)
-                    {
-                        current = Convert.ToInt32(line);
-                        tree.Add(current);
-                    }
-                    foreach (var item in tree.Preorder())
-                    {
-                        writer.Write(item + " ");
-                    }
-                    tree.CheckAndBalanceTree();
+
                 }
             }
         }
     }
 }
-*/

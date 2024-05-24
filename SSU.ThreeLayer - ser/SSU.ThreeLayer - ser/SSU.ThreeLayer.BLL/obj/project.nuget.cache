@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JwbRBngQ79Gc/RhcByuc7pbwRVh+OhCyQEIcUF1tC3pSWSJ0oRDlyFSmXJ9GQzj55tWqVHL+LgTBQSMLifp/Bw==",
+  "success": true,
+  "projectFilePath": "P:\\siacode_git\\SIACOD\\SSU.ThreeLayer - ser\\SSU.ThreeLayer - ser\\SSU.ThreeLayer.BLL\\SSU.ThreeLayer.BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NitghtWay\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\NitghtWay\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
